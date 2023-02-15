@@ -6,10 +6,13 @@ Software Developer
 
 l've been learning web development for 3 years, l did both backend and frontend.
 
-*   🌍  I'm based in Bangkok, Thailand
-*   ✉️  You can contact me at [piyamax23@gmail.com](mailto:piyamax23@gmail.com)
-*   🧠  I'm learning a new framework Spring Boot, Nuxt, TypeScript and Postgresql
-*   ⚡  I am studying and will graduate in the 6th month### Skills 
+* 🌍  I'm based in Bangkok, Thailand
+* ✉️  You can contact me at [piyamax23@gmail.com](mailto:piyamax23@gmail.com)
+* 🧠  I'm learning a new framework Spring Boot, Nuxt, TypeScript and Postgresql
+* ⚡  I am studying and will graduate in the 6th month
+
+### Skills
+
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -32,10 +35,10 @@ l've been learning web development for 3 years, l did both backend and frontend.
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" width="36" height="36" alt="XD" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/PiyaSrisuk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>### Badges<a href="https://github.com/PiyaSrisuk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyaSrisuk&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/PiyaSrisuk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
+### Badges
+
+<a href="https://github.com/PiyaSrisuk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyaSrisuk&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
